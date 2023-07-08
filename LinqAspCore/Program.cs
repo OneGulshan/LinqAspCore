@@ -28,3 +28,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
+https://youtu.be/hPZ6yK8Dduw <- Learned by this
